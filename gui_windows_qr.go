@@ -115,11 +115,11 @@ func (a *nativeApp) qrGenerator() {
 			}
 		})
 	}
-	definition := d.Dialog{AssignTo: &dlg, Title: "Генератор QR-кода — мап-арт", Size: d.Size{1050, 750}, MinSize: d.Size{850, 650}, Layout: d.VBox{}, CancelButton: &cancel, Children: []d.Widget{
+	definition := d.Dialog{AssignTo: &dlg, Title: "Генератор QR-кода — мап-арт", Size: d.Size{Width: 1050, Height: 750}, MinSize: d.Size{Width: 850, Height: 650}, Layout: d.VBox{}, CancelButton: &cancel, Children: []d.Widget{
 		d.HSplitter{StretchFactor: 1, Children: []d.Widget{
-			d.Composite{MinSize: d.Size{480, 0}, Layout: d.VBox{}, Children: []d.Widget{
+			d.Composite{MinSize: d.Size{Width: 480, Height: 0}, Layout: d.VBox{}, Children: []d.Widget{
 				d.Label{Text: "Ссылка или текст"},
-				d.TextEdit{AssignTo: &text, Text: q.Text, MinSize: d.Size{0, 70}, MaxSize: d.Size{0, 90}, VScroll: true},
+				d.TextEdit{AssignTo: &text, Text: q.Text, MinSize: d.Size{Width: 0, Height: 70}, MaxSize: d.Size{Width: 0, Height: 90}, VScroll: true},
 				d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{
 					d.Label{Text: "Карт X × Y"},
 					d.NumberEdit{AssignTo: &mapsX, Value: float64(q.MapsX), MinValue: 1, MaxValue: 256, Decimals: 0, SpinButtonsVisible: true},
@@ -151,7 +151,7 @@ func (a *nativeApp) qrGenerator() {
 				d.VSpacer{},
 			}},
 			d.Composite{Layout: d.VBox{}, StretchFactor: 1, Children: []d.Widget{
-				d.ImageView{AssignTo: &preview, Mode: d.ImageViewModeZoom, MinSize: d.Size{300, 300}, StretchFactor: 1, Background: d.SolidColorBrush{Color: walk.RGB(235, 238, 242)}},
+				d.ImageView{AssignTo: &preview, Mode: d.ImageViewModeZoom, MinSize: d.Size{Width: 300, Height: 300}, StretchFactor: 1, Background: d.SolidColorBrush{Color: walk.RGB(235, 238, 242)}},
 				d.TextLabel{AssignTo: &info, Text: "Вставьте ссылку и нажмите «Обновить превью» или «Создать мап-арт». Цвета показаны как на карте Minecraft."},
 			}},
 		}},

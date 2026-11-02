@@ -84,7 +84,7 @@ func (s *nativeEditSurface) point(x, y int, clamp bool) (image.Point, bool) {
 }
 
 func (s *nativeEditSurface) declaration() d.Widget {
-	return d.CustomWidget{AssignTo: &s.widget, MinSize: d.Size{200, 200}, StretchFactor: 1, InvalidatesOnResize: true, PaintPixels: func(c *walk.Canvas, _ walk.Rectangle) error {
+	return d.CustomWidget{AssignTo: &s.widget, MinSize: d.Size{Width: 200, Height: 200}, StretchFactor: 1, InvalidatesOnResize: true, PaintPixels: func(c *walk.Canvas, _ walk.Rectangle) error {
 		brush, err := walk.NewSolidColorBrush(walk.RGB(235, 238, 242))
 		if err != nil {
 			return err
@@ -152,14 +152,14 @@ func (a *nativeApp) sourceEditor(source image.Image, opts RenderOptions) {
 	}
 	tone := func(label string, value *float64, low, high float64, decimals int) d.Widget {
 		var field *walk.NumberEdit
-		return d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{d.Label{Text: label, MinSize: d.Size{140, 0}}, d.NumberEdit{AssignTo: &field, Value: *value, MinValue: low, MaxValue: high, Decimals: decimals, SpinButtonsVisible: true, OnValueChanged: func() {
+		return d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{d.Label{Text: label, MinSize: d.Size{Width: 140, Height: 0}}, d.NumberEdit{AssignTo: &field, Value: *value, MinValue: low, MaxValue: high, Decimals: decimals, SpinButtonsVisible: true, OnValueChanged: func() {
 			if field != nil {
 				*value = field.Value()
 				refresh(false)
 			}
 		}}}}
 	}
-	definition := d.Dialog{AssignTo: &dlg, Title: "Редактор исходника", Size: d.Size{1000, 800}, MinSize: d.Size{700, 600}, Layout: d.VBox{}, DefaultButton: &apply, CancelButton: &cancel, Children: []d.Widget{
+	definition := d.Dialog{AssignTo: &dlg, Title: "Редактор исходника", Size: d.Size{Width: 1000, Height: 800}, MinSize: d.Size{Width: 700, Height: 600}, Layout: d.VBox{}, DefaultButton: &apply, CancelButton: &cancel, Children: []d.Widget{
 		d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{
 			d.PushButton{Text: "↶ 90°", OnClicked: func() { rotateSourceOptions(&opts, -90); refresh(true) }},
 			d.PushButton{Text: "↷ 90°", OnClicked: func() { rotateSourceOptions(&opts, 90); refresh(true) }},
@@ -281,7 +281,7 @@ func (a *nativeApp) editMap() {
 			labels[i] = blockLabel(p.WoolID) + " · " + map[string]string{"Dark": "тёмный", "Normal": "обычный", "Light": "светлый"}[p.Shade] + " " + labels[i]
 		}
 	}
-	definition := d.Dialog{AssignTo: &dlg, Title: "Редактор карты — один пиксель = один блок", Size: d.Size{1100, 800}, MinSize: d.Size{800, 500}, Layout: d.VBox{}, DefaultButton: &apply, CancelButton: &cancel, Children: []d.Widget{
+	definition := d.Dialog{AssignTo: &dlg, Title: "Редактор карты — один пиксель = один блок", Size: d.Size{Width: 1100, Height: 800}, MinSize: d.Size{Width: 800, Height: 500}, Layout: d.VBox{}, DefaultButton: &apply, CancelButton: &cancel, Children: []d.Widget{
 		d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{
 			d.ComboBox{AssignTo: &tool, Model: []string{"Кисть", "Заливка", "Пипетка"}, CurrentIndex: 0},
 			d.Label{Text: "Размер кисти"}, d.ComboBox{AssignTo: &brush, Model: []string{"1", "3", "5", "9", "17"}, CurrentIndex: 0},
@@ -296,7 +296,7 @@ func (a *nativeApp) editMap() {
 					setZoom(editorZoomChoice(zoom.Text()))
 				}
 			}},
-			d.Label{AssignTo: &zoomPercent, MinSize: d.Size{65, 0}},
+			d.Label{AssignTo: &zoomPercent, MinSize: d.Size{Width: 65, Height: 0}},
 			d.PushButton{Text: "Вписать", OnClicked: func() { zoom.SetCurrentIndex(0); setZoom(0) }},
 			d.Label{Text: "Колёсико мыши — приблизить / отдалить"}, d.HSpacer{},
 		}},

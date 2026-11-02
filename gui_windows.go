@@ -68,7 +68,7 @@ func runGUI(opts RenderOptions, path string, build BuildOptions) error {
 		d.TextLabel{Text: "5023 = Java 26.3 (полный каталог). 3465 = Java 1.20.1 для старых материалов. Произвольная RGB-палитра не поддерживается при экспорте блоков.\n\nZIP по картам содержит независимые постройки 128×128. Обязательные опоры под сыпучими и тонкими блоками сохраняются при отключении обычных опор."},
 		d.VSpacer{},
 	}})
-	window := d.MainWindow{AssignTo: &a.window, Title: "MapArt Studio", MinSize: d.Size{1000, 680}, Size: d.Size{1320, 850}, Font: d.Font{Family: "Segoe UI", PointSize: 10}, Layout: d.VBox{Margins: d.Margins{Left: 16, Top: 12, Right: 16, Bottom: 12}, Spacing: 10},
+	window := d.MainWindow{AssignTo: &a.window, Title: "MapArt Studio", MinSize: d.Size{Width: 1000, Height: 680}, Size: d.Size{Width: 1320, Height: 850}, Font: d.Font{Family: "Segoe UI", PointSize: 10}, Layout: d.VBox{Margins: d.Margins{Left: 16, Top: 12, Right: 16, Bottom: 12}, Spacing: 10},
 		OnDropFiles: func(paths []string) {
 			if !a.busy && len(paths) > 0 {
 				a.path.SetText(paths[0])
@@ -88,7 +88,7 @@ func runGUI(opts RenderOptions, path string, build BuildOptions) error {
 				d.PushButton{Text: "Открыть картинку…", OnClicked: a.openImage},
 			}},
 			d.HSplitter{Children: []d.Widget{
-				d.Composite{MinSize: d.Size{385, 0}, MaxSize: d.Size{470, 0}, Layout: d.VBox{MarginsZero: true, Spacing: 8}, Children: []d.Widget{
+				d.Composite{MinSize: d.Size{Width: 385, Height: 0}, MaxSize: d.Size{Width: 470, Height: 0}, Layout: d.VBox{MarginsZero: true, Spacing: 8}, Children: []d.Widget{
 					d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{
 						d.Label{Text: "Пресет"}, d.ComboBox{AssignTo: &a.preset, Model: PresetNames(), CurrentIndex: 0}, d.PushButton{Text: "Применить", OnClicked: a.applyPreset},
 					}},
@@ -97,7 +97,7 @@ func runGUI(opts RenderOptions, path string, build BuildOptions) error {
 					d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{
 						d.PushButton{Text: "Загрузить JSON…", OnClicked: a.loadProfile}, d.PushButton{Text: "Сохранить JSON…", OnClicked: a.saveProfile},
 					}},
-					d.PushButton{AssignTo: &a.renderButton, Name: "render", Text: "Преобразовать", MinSize: d.Size{0, 40}, Font: d.Font{Family: "Segoe UI", PointSize: 11, Bold: true}, OnClicked: a.render},
+					d.PushButton{AssignTo: &a.renderButton, Name: "render", Text: "Преобразовать", MinSize: d.Size{Width: 0, Height: 40}, Font: d.Font{Family: "Segoe UI", PointSize: 11, Bold: true}, OnClicked: a.render},
 				}},
 				d.Composite{Layout: d.VBox{MarginsZero: true, Spacing: 8}, StretchFactor: 3, Children: []d.Widget{
 					d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{
@@ -121,7 +121,7 @@ func runGUI(opts RenderOptions, path string, build BuildOptions) error {
 					}},
 				}},
 			}},
-			d.ProgressBar{AssignTo: &a.progress, MaxSize: d.Size{0, 6}},
+			d.ProgressBar{AssignTo: &a.progress, MaxSize: d.Size{Width: 0, Height: 6}},
 			d.Label{AssignTo: &a.status, Text: "Выберите изображение. Все операции выполняются локально."},
 		},
 	}
@@ -157,7 +157,7 @@ func runGUI(opts RenderOptions, path string, build BuildOptions) error {
 
 func (a *nativeApp) imagePane(target **walk.ImageView) d.Widget {
 	return d.ScrollView{Layout: d.VBox{MarginsZero: true}, Children: []d.Widget{
-		d.ImageView{AssignTo: target, Mode: d.ImageViewModeZoom, Background: d.SolidColorBrush{Color: walk.RGB(235, 238, 242)}, MinSize: d.Size{100, 100}},
+		d.ImageView{AssignTo: target, Mode: d.ImageViewModeZoom, Background: d.SolidColorBrush{Color: walk.RGB(235, 238, 242)}, MinSize: d.Size{Width: 100, Height: 100}},
 	}}
 }
 
@@ -170,7 +170,7 @@ func (a *nativeApp) number(label string, get func() float64, set func(float64), 
 	if decimals > 0 {
 		inc = .05
 	}
-	return d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{d.Label{Text: label, MinSize: d.Size{190, 0}}, d.NumberEdit{AssignTo: &field, MinValue: low, MaxValue: high, Decimals: decimals, Increment: inc, SpinButtonsVisible: true, OnValueChanged: a.changed}}}
+	return d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{d.Label{Text: label, MinSize: d.Size{Width: 190, Height: 0}}, d.NumberEdit{AssignTo: &field, MinValue: low, MaxValue: high, Decimals: decimals, Increment: inc, SpinButtonsVisible: true, OnValueChanged: a.changed}}}
 }
 func (a *nativeApp) choice(label string, get func() string, set func(string), values []string) d.Widget {
 	var field *walk.ComboBox
@@ -183,7 +183,7 @@ func (a *nativeApp) choice(label string, get func() string, set func(string), va
 			}
 		}
 	})
-	return d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{d.Label{Text: label, MinSize: d.Size{190, 0}}, d.ComboBox{AssignTo: &field, Model: values, OnCurrentIndexChanged: a.changed}}}
+	return d.Composite{Layout: d.HBox{MarginsZero: true}, Children: []d.Widget{d.Label{Text: label, MinSize: d.Size{Width: 190, Height: 0}}, d.ComboBox{AssignTo: &field, Model: values, OnCurrentIndexChanged: a.changed}}}
 }
 func (a *nativeApp) check(label string, get func() bool, set func(bool)) d.Widget {
 	var field *walk.CheckBox
@@ -197,7 +197,7 @@ func (a *nativeApp) text(label string, get func() string, set func(string), file
 	a.writeFields = append(a.writeFields, func() { field.SetText(get()) })
 	children := []d.Widget{d.LineEdit{AssignTo: &field, OnTextChanged: a.changed}}
 	if file {
-		children = append(children, d.PushButton{Text: "…", MaxSize: d.Size{32, 0}, OnClicked: func() {
+		children = append(children, d.PushButton{Text: "…", MaxSize: d.Size{Width: 32, Height: 0}, OnClicked: func() {
 			if a.busy {
 				return
 			}
