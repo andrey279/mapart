@@ -2,16 +2,25 @@ name: Release
 on:
   push:
     tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing release tag to build and attach packages to
+        required: true
+        type: string
+        default: v0.1.0
 permissions:
   contents: read
 concurrency:
-  group: release-${{ github.ref }}
+  group: release-${{ inputs.tag || github.ref_name }}
   cancel-in-progress: false
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: refs/tags/${{ inputs.tag || github.ref_name }}
       - uses: actions/setup-go@v6
         with:
           go-version-file: go.mod
@@ -25,6 +34,8 @@ jobs:
   build:
     needs: check
     uses: ./.github/workflows/build.yml
+    with:
+      ref: refs/tags/${{ inputs.tag || github.ref_name }}
   release:
     needs: build
     runs-on: ubuntu-latest
@@ -39,9 +50,23 @@ jobs:
       - name: Checksums
         working-directory: packages
         run: sha256sum ./*.zip > SHA256SUMS.txt
-      - name: Create draft release
+      - name: Attach packages to release
+        shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
-          RELEASE_TAG: ${{ github.ref_name }}
-        run: gh release create "$RELEASE_TAG" packages/*.zip packages/SHA256SUMS.txt --verify-tag --draft --generate-notes
+          RELEASE_TAG: ${{ inputs.tag || github.ref_name }}
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          archives=(packages/*.zip)
+          if [[ ${#archives[@]} -ne 6 ]]; then
+            echo "Expected 6 platform packages, found ${#archives[@]}" >&2
+            exit 1
+          fi
+          test -s packages/SHA256SUMS.txt
+          if gh release view "$RELEASE_TAG" --json tagName >/dev/null 2>&1; then
+            gh release upload "$RELEASE_TAG" "${archives[@]}" packages/SHA256SUMS.txt --clobber
+          else
+            gh release create "$RELEASE_TAG" "${archives[@]}" packages/SHA256SUMS.txt --verify-tag --draft --generate-notes
+          fi

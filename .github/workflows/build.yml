@@ -1,6 +1,12 @@
 name: Build packages
 on:
   workflow_call:
+    inputs:
+      ref:
+        description: Commit, branch or tag to package; empty uses the workflow commit
+        required: false
+        type: string
+        default: ''
 permissions:
   contents: read
 jobs:
@@ -36,6 +42,8 @@ jobs:
     runs-on: ${{ matrix.runner }}
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: ${{ inputs.ref }}
       - uses: actions/setup-go@v6
         with:
           go-version-file: go.mod
