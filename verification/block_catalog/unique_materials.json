@@ -1,0 +1,682 @@
+[
+  {
+    "selection": "white_wool",
+    "name": "white_wool",
+    "label": "Белая шерсть",
+    "group": "Шерсть",
+    "rgb": 16777215,
+    "map_color": 8,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "orange_wool",
+    "name": "orange_wool",
+    "label": "Оранжевая шерсть",
+    "group": "Шерсть",
+    "rgb": 14188339,
+    "map_color": 15,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "magenta_wool",
+    "name": "magenta_wool",
+    "label": "Пурпурная шерсть",
+    "group": "Шерсть",
+    "rgb": 11685080,
+    "map_color": 16,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "light_blue_wool",
+    "name": "light_blue_wool",
+    "label": "Голубая шерсть",
+    "group": "Шерсть",
+    "rgb": 6724056,
+    "map_color": 17,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "yellow_wool",
+    "name": "yellow_wool",
+    "label": "Жёлтая шерсть",
+    "group": "Шерсть",
+    "rgb": 15066419,
+    "map_color": 18,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "lime_wool",
+    "name": "lime_wool",
+    "label": "Лаймовая шерсть",
+    "group": "Шерсть",
+    "rgb": 8375321,
+    "map_color": 19,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "pink_wool",
+    "name": "pink_wool",
+    "label": "Розовая шерсть",
+    "group": "Шерсть",
+    "rgb": 15892389,
+    "map_color": 20,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "gray_wool",
+    "name": "gray_wool",
+    "label": "Серая шерсть",
+    "group": "Шерсть",
+    "rgb": 5000268,
+    "map_color": 21,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "light_gray_wool",
+    "name": "light_gray_wool",
+    "label": "Светло-серая шерсть",
+    "group": "Шерсть",
+    "rgb": 10066329,
+    "map_color": 22,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "cyan_wool",
+    "name": "cyan_wool",
+    "label": "Бирюзовая шерсть",
+    "group": "Шерсть",
+    "rgb": 5013401,
+    "map_color": 23,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "purple_wool",
+    "name": "purple_wool",
+    "label": "Фиолетовая шерсть",
+    "group": "Шерсть",
+    "rgb": 8339378,
+    "map_color": 24,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "blue_wool",
+    "name": "blue_wool",
+    "label": "Синяя шерсть",
+    "group": "Шерсть",
+    "rgb": 3361970,
+    "map_color": 25,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "brown_wool",
+    "name": "brown_wool",
+    "label": "Коричневая шерсть",
+    "group": "Шерсть",
+    "rgb": 6704179,
+    "map_color": 26,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "green_wool",
+    "name": "green_wool",
+    "label": "Зелёная шерсть",
+    "group": "Шерсть",
+    "rgb": 6717235,
+    "map_color": 27,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "red_wool",
+    "name": "red_wool",
+    "label": "Красная шерсть",
+    "group": "Шерсть",
+    "rgb": 10040115,
+    "map_color": 28,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "black_wool",
+    "name": "black_wool",
+    "label": "Чёрная шерсть",
+    "group": "Шерсть",
+    "rgb": 1644825,
+    "map_color": 29,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "white_terracotta",
+    "name": "white_terracotta",
+    "label": "Белая терракота",
+    "group": "Терракота",
+    "rgb": 13742497,
+    "map_color": 36,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "orange_terracotta",
+    "name": "orange_terracotta",
+    "label": "Оранжевая терракота",
+    "group": "Терракота",
+    "rgb": 10441252,
+    "map_color": 37,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "magenta_terracotta",
+    "name": "magenta_terracotta",
+    "label": "Пурпурная терракота",
+    "group": "Терракота",
+    "rgb": 9787244,
+    "map_color": 38,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "light_blue_terracotta",
+    "name": "light_blue_terracotta",
+    "label": "Голубая терракота",
+    "group": "Терракота",
+    "rgb": 7367818,
+    "map_color": 39,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "yellow_terracotta",
+    "name": "yellow_terracotta",
+    "label": "Жёлтая терракота",
+    "group": "Терракота",
+    "rgb": 12223780,
+    "map_color": 40,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "lime_terracotta",
+    "name": "lime_terracotta",
+    "label": "Лаймовая терракота",
+    "group": "Терракота",
+    "rgb": 6780213,
+    "map_color": 41,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "pink_terracotta",
+    "name": "pink_terracotta",
+    "label": "Розовая терракота",
+    "group": "Терракота",
+    "rgb": 10505550,
+    "map_color": 42,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "gray_terracotta",
+    "name": "gray_terracotta",
+    "label": "Серая терракота",
+    "group": "Терракота",
+    "rgb": 3746083,
+    "map_color": 43,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "light_gray_terracotta",
+    "name": "light_gray_terracotta",
+    "label": "Светло-серая терракота",
+    "group": "Терракота",
+    "rgb": 8874850,
+    "map_color": 44,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "cyan_terracotta",
+    "name": "cyan_terracotta",
+    "label": "Бирюзовая терракота",
+    "group": "Терракота",
+    "rgb": 5725276,
+    "map_color": 45,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "purple_terracotta",
+    "name": "purple_terracotta",
+    "label": "Фиолетовая терракота",
+    "group": "Терракота",
+    "rgb": 8014168,
+    "map_color": 46,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "blue_terracotta",
+    "name": "blue_terracotta",
+    "label": "Синяя терракота",
+    "group": "Терракота",
+    "rgb": 4996700,
+    "map_color": 47,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "brown_terracotta",
+    "name": "brown_terracotta",
+    "label": "Коричневая терракота",
+    "group": "Терракота",
+    "rgb": 4993571,
+    "map_color": 48,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "green_terracotta",
+    "name": "green_terracotta",
+    "label": "Зелёная терракота",
+    "group": "Терракота",
+    "rgb": 5001770,
+    "map_color": 49,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "red_terracotta",
+    "name": "red_terracotta",
+    "label": "Красная терракота",
+    "group": "Терракота",
+    "rgb": 9321518,
+    "map_color": 50,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "black_terracotta",
+    "name": "black_terracotta",
+    "label": "Чёрная терракота",
+    "group": "Терракота",
+    "rgb": 2430480,
+    "map_color": 51,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "clay",
+    "name": "clay",
+    "label": "Глина",
+    "group": "Дополнительные материалы",
+    "rgb": 10791096,
+    "map_color": 9,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "prismarine_bricks",
+    "name": "prismarine_bricks",
+    "label": "Призмариновые кирпичи",
+    "group": "Дополнительные материалы",
+    "rgb": 6085589,
+    "map_color": 31,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "packed_ice",
+    "name": "packed_ice",
+    "label": "Плотный лёд",
+    "group": "Дополнительные материалы",
+    "rgb": 10526975,
+    "map_color": 5,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "sandstone",
+    "name": "sandstone",
+    "label": "Песчаник",
+    "group": "Дополнительные материалы",
+    "rgb": 16247203,
+    "map_color": 2,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "stone",
+    "name": "stone",
+    "label": "Камень",
+    "group": "Дополнительные материалы",
+    "rgb": 7368816,
+    "map_color": 11,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "oak_planks",
+    "name": "oak_planks",
+    "label": "Дубовые доски",
+    "group": "Дополнительные материалы",
+    "rgb": 9402184,
+    "map_color": 13,
+    "properties": {},
+    "min_data_version": 3465,
+    "requires_support": false
+  },
+  {
+    "selection": "pale_oak_planks",
+    "name": "pale_oak_planks",
+    "label": "Доски из бледного дуба",
+    "group": "Древесина",
+    "rgb": 16776437,
+    "map_color": 14,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 5023
+  },
+  {
+    "selection": "crimson_planks",
+    "name": "crimson_planks",
+    "label": "Багровые доски",
+    "group": "Древесина",
+    "rgb": 9715553,
+    "map_color": 53,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "crimson_hyphae",
+    "name": "crimson_hyphae",
+    "label": "Багровые гифы",
+    "group": "Древесина",
+    "rgb": 6035741,
+    "map_color": 54,
+    "properties": {
+      "axis": "y"
+    },
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "dirt",
+    "name": "dirt",
+    "label": "Земля",
+    "group": "Природа",
+    "rgb": 9923917,
+    "map_color": 10,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "spruce_planks",
+    "name": "spruce_planks",
+    "label": "Еловые доски",
+    "group": "Древесина",
+    "rgb": 8476209,
+    "map_color": 34,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "warped_hyphae",
+    "name": "warped_hyphae",
+    "label": "Искажённые гифы",
+    "group": "Древесина",
+    "rgb": 5647422,
+    "map_color": 57,
+    "properties": {
+      "axis": "y"
+    },
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "warped_planks",
+    "name": "warped_planks",
+    "label": "Искажённые доски",
+    "group": "Древесина",
+    "rgb": 3837580,
+    "map_color": 56,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "bamboo_block[axis=x]",
+    "name": "bamboo_block",
+    "label": "Блок бамбука — кора сверху",
+    "group": "Бамбук",
+    "rgb": 31744,
+    "map_color": 7,
+    "properties": {
+      "axis": "x"
+    },
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "crimson_nylium",
+    "name": "crimson_nylium",
+    "label": "Багровый нилий",
+    "group": "Грибы и Незер",
+    "rgb": 12398641,
+    "map_color": 52,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "mushroom_stem",
+    "name": "mushroom_stem",
+    "label": "Ножка гриба",
+    "group": "Грибы и Незер",
+    "rgb": 13092807,
+    "map_color": 3,
+    "properties": {
+      "down": "true",
+      "east": "true",
+      "north": "true",
+      "south": "true",
+      "up": "true",
+      "west": "true"
+    },
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "warped_nylium",
+    "name": "warped_nylium",
+    "label": "Искажённый нилий",
+    "group": "Грибы и Незер",
+    "rgb": 1474182,
+    "map_color": 55,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "warped_wart_block",
+    "name": "warped_wart_block",
+    "label": "Блок искажённого нароста",
+    "group": "Грибы и Незер",
+    "rgb": 1356933,
+    "map_color": 58,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "deepslate_brick_slab",
+    "name": "deepslate_brick_slab",
+    "label": "Плита из глубинносланцевого кирпича",
+    "group": "Камень и прочее",
+    "rgb": 6579300,
+    "map_color": 59,
+    "properties": {
+      "type": "top",
+      "waterlogged": "false"
+    },
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "netherrack",
+    "name": "netherrack",
+    "label": "Незерак",
+    "group": "Камень и прочее",
+    "rgb": 7340544,
+    "map_color": 35,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "iron_block",
+    "name": "iron_block",
+    "label": "Железный блок",
+    "group": "Руды и металлы",
+    "rgb": 10987431,
+    "map_color": 6,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "grass_block",
+    "name": "grass_block",
+    "label": "Дёрн",
+    "group": "Природа",
+    "rgb": 8368696,
+    "map_color": 1,
+    "properties": {
+      "snowy": "false"
+    },
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "redstone_block",
+    "name": "redstone_block",
+    "label": "Редстоуновый блок",
+    "group": "Руды и металлы",
+    "rgb": 16711680,
+    "map_color": 4,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "verdant_froglight",
+    "name": "verdant_froglight",
+    "label": "Малахитовая квампа",
+    "group": "Камень и прочее",
+    "rgb": 8365974,
+    "map_color": 61,
+    "properties": {
+      "axis": "y"
+    },
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "emerald_block",
+    "name": "emerald_block",
+    "label": "Изумрудный блок",
+    "group": "Руды и металлы",
+    "rgb": 55610,
+    "map_color": 33,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "gold_block",
+    "name": "gold_block",
+    "label": "Золотой блок",
+    "group": "Руды и металлы",
+    "rgb": 16445005,
+    "map_color": 30,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "lapis_block",
+    "name": "lapis_block",
+    "label": "Лазуритовый блок",
+    "group": "Руды и металлы",
+    "rgb": 4882687,
+    "map_color": 32,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  },
+  {
+    "selection": "raw_iron_block",
+    "name": "raw_iron_block",
+    "label": "Блок рудного железа",
+    "group": "Руды и металлы",
+    "rgb": 14200723,
+    "map_color": 60,
+    "properties": {},
+    "requires_support": false,
+    "min_data_version": 3465
+  }
+]

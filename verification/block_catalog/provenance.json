@@ -1,0 +1,44 @@
+{
+  "minecraft": "26.3",
+  "data_version": 5023,
+  "client": {
+    "sha1": "e877b6a07acd633fb3bb475002175cec036e7b87",
+    "size": 41483720,
+    "url": "https://piston-data.mojang.com/v1/objects/e877b6a07acd633fb3bb475002175cec036e7b87/client.jar"
+  },
+  "reference_catalog": "https://github.com/rebane2001/mapartcraft/blob/master/src/components/mapart/json/coloursJSON.json",
+  "reference_catalog_sha256": "8a84ac9f672c555f18355da3553835edf95660022690b502fafad8f8b8e69088",
+  "legacy_variants": 38,
+  "new_variants": 647,
+  "total_variants": 685,
+  "excluded_reference_blocks": [
+    "iron_bars",
+    "water"
+  ],
+  "explanation": {
+    "water": "Fluid shading depends on depth; not treated as a solid block",
+    "iron_bars": "MapColor.NONE in the Java 26.3 registry; would reveal the support instead"
+  },
+  "groups": {
+    "Шерсть": 32,
+    "Бетон": 64,
+    "Глазурованная терракота": 16,
+    "Древесина": 154,
+    "Бамбук": 14,
+    "Грибы и Незер": 8,
+    "Камень и прочее": 202,
+    "Руды и металлы": 82,
+    "Природа": 34,
+    "Ковры": 16,
+    "Стекло и лёд": 19,
+    "Декор": 6
+  },
+  "deduplication": {
+    "current_materials": 60,
+    "removed_duplicates": 625,
+    "unique_base_map_colors": 60,
+    "staircase_shades": 180,
+    "materials_file": "unique_materials.json",
+    "mapping_file": "removed_aliases.json"
+  }
+}

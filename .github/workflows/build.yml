@@ -1,0 +1,71 @@
+name: Build packages
+on:
+  workflow_call:
+permissions:
+  contents: read
+jobs:
+  package:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner: ubuntu-latest
+            goos: linux
+            goarch: amd64
+            variant: cli
+          - runner: ubuntu-latest
+            goos: linux
+            goarch: arm64
+            variant: cli
+          - runner: windows-latest
+            goos: windows
+            goarch: amd64
+            variant: native
+          - runner: macos-latest
+            goos: darwin
+            goarch: amd64
+            variant: cli
+          - runner: macos-latest
+            goos: darwin
+            goarch: arm64
+            variant: cli
+          - runner: ubuntu-latest
+            goos: linux
+            goarch: amd64
+            variant: gui
+    runs-on: ${{ matrix.runner }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-go@v6
+        with:
+          go-version-file: go.mod
+      - name: Install desktop development libraries
+        if: matrix.variant == 'gui'
+        run: sudo apt-get update && sudo apt-get install -y libgl1-mesa-dev xorg-dev libwayland-dev libxkbcommon-dev wayland-protocols
+      - name: Build
+        shell: bash
+        env:
+          GOOS: ${{ matrix.goos }}
+          GOARCH: ${{ matrix.goarch }}
+          VARIANT: ${{ matrix.variant }}
+        run: |
+          mkdir -p build/package
+          if [[ "$VARIANT" == gui ]]; then
+            CGO_ENABLED=1 go build -tags gui -trimpath -ldflags='-s -w' -o build/package/mapart-gui .
+          elif [[ "$GOOS" == windows ]]; then
+            CGO_ENABLED=0 go build -trimpath -ldflags='-s -w' -o build/package/mapart.exe .
+            CGO_ENABLED=0 go build -trimpath -ldflags='-s -w -H windowsgui' -o build/package/mapart-gui.exe .
+          else
+            CGO_ENABLED=0 go build -trimpath -ldflags='-s -w' -o build/package/mapart .
+          fi
+      - name: Package with notices
+        shell: bash
+        env:
+          PACKAGE_NAME: mapart-${{ matrix.goos }}-${{ matrix.goarch }}-${{ matrix.variant }}
+        run: python scripts/package_release.py --name "$PACKAGE_NAME"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mapart-${{ matrix.goos }}-${{ matrix.goarch }}-${{ matrix.variant }}
+          path: dist/*.zip
+          if-no-files-found: error
+          retention-days: 7

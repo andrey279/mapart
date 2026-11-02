@@ -1,0 +1,94 @@
+# Binaries
+mapart
+mapart.exe
+mapart-gui
+mapart-gui.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output directories
+output/
+temp/
+tmp/
+
+# Coverage
+*.out
+coverage.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Go workspace
+*.work
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+*.log
+
+# Fyne build cache
+fyne-cross/
+
+# Local input, downloaded artwork and generated review galleries
+/input/
+/anime_gallery/
+/verification/*
+!/verification/block_catalog/
+/verification/block_catalog/*
+!/verification/block_catalog/*.json
+!/verification/block_catalog/*.java
+!/verification/block_catalog/*.py
+!/verification/block_catalog/README.md
+/verification/block_catalog/sample*
+/source.png
+/preview.png
+/preprocessed.png
+/fonstola.ru_306485.jpg
+/links.txt
+/aboba.txt
+
+# Local reports, separate from maintained documentation
+/COMPLETION_REPORT.md
+/IMPLEMENTATION_SUMMARY.md
+/README_FINAL_SUMMARY.txt
+/GUI_LINUX_SUMMARY.md
+
+# Credentials and agent-local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+/.aws/
+/.codex/
+/.agents/
+
+# Python helpers and compiled Java checks
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.class
+*.jar
+
+# Unused standalone OpenCV experiment and hashes of old local binaries
+/enhance.py
+/verification/block_catalog/release.json
+/verification/block_catalog/dedup_release.json

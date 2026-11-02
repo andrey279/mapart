@@ -1,0 +1,307 @@
+{
+  "minecraft": "26.3",
+  "data_version": 5023,
+  "variants_checked": 60,
+  "results": [
+    {
+      "file": "block_000.nbt",
+      "surface_state": "Block{minecraft:white_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_001.nbt",
+      "surface_state": "Block{minecraft:orange_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_002.nbt",
+      "surface_state": "Block{minecraft:magenta_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_003.nbt",
+      "surface_state": "Block{minecraft:light_blue_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_004.nbt",
+      "surface_state": "Block{minecraft:yellow_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_005.nbt",
+      "surface_state": "Block{minecraft:lime_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_006.nbt",
+      "surface_state": "Block{minecraft:pink_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_007.nbt",
+      "surface_state": "Block{minecraft:gray_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_008.nbt",
+      "surface_state": "Block{minecraft:light_gray_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_009.nbt",
+      "surface_state": "Block{minecraft:cyan_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_010.nbt",
+      "surface_state": "Block{minecraft:purple_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_011.nbt",
+      "surface_state": "Block{minecraft:blue_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_012.nbt",
+      "surface_state": "Block{minecraft:brown_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_013.nbt",
+      "surface_state": "Block{minecraft:green_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_014.nbt",
+      "surface_state": "Block{minecraft:red_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_015.nbt",
+      "surface_state": "Block{minecraft:black_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_016.nbt",
+      "surface_state": "Block{minecraft:white_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_017.nbt",
+      "surface_state": "Block{minecraft:orange_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_018.nbt",
+      "surface_state": "Block{minecraft:magenta_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_019.nbt",
+      "surface_state": "Block{minecraft:light_blue_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_020.nbt",
+      "surface_state": "Block{minecraft:yellow_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_021.nbt",
+      "surface_state": "Block{minecraft:lime_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_022.nbt",
+      "surface_state": "Block{minecraft:pink_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_023.nbt",
+      "surface_state": "Block{minecraft:gray_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_024.nbt",
+      "surface_state": "Block{minecraft:light_gray_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_025.nbt",
+      "surface_state": "Block{minecraft:cyan_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_026.nbt",
+      "surface_state": "Block{minecraft:purple_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_027.nbt",
+      "surface_state": "Block{minecraft:blue_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_028.nbt",
+      "surface_state": "Block{minecraft:brown_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_029.nbt",
+      "surface_state": "Block{minecraft:green_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_030.nbt",
+      "surface_state": "Block{minecraft:red_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_031.nbt",
+      "surface_state": "Block{minecraft:black_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_032.nbt",
+      "surface_state": "Block{minecraft:clay}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_033.nbt",
+      "surface_state": "Block{minecraft:prismarine_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_034.nbt",
+      "surface_state": "Block{minecraft:packed_ice}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_035.nbt",
+      "surface_state": "Block{minecraft:sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_036.nbt",
+      "surface_state": "Block{minecraft:stone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_037.nbt",
+      "surface_state": "Block{minecraft:oak_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_038.nbt",
+      "surface_state": "Block{minecraft:pale_oak_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_039.nbt",
+      "surface_state": "Block{minecraft:crimson_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_040.nbt",
+      "surface_state": "Block{minecraft:crimson_hyphae}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_041.nbt",
+      "surface_state": "Block{minecraft:dirt}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_042.nbt",
+      "surface_state": "Block{minecraft:spruce_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_043.nbt",
+      "surface_state": "Block{minecraft:warped_hyphae}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_044.nbt",
+      "surface_state": "Block{minecraft:warped_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_045.nbt",
+      "surface_state": "Block{minecraft:bamboo_block}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_046.nbt",
+      "surface_state": "Block{minecraft:crimson_nylium}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_047.nbt",
+      "surface_state": "Block{minecraft:mushroom_stem}[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_048.nbt",
+      "surface_state": "Block{minecraft:warped_nylium}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_049.nbt",
+      "surface_state": "Block{minecraft:warped_wart_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_050.nbt",
+      "surface_state": "Block{minecraft:deepslate_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_051.nbt",
+      "surface_state": "Block{minecraft:netherrack}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_052.nbt",
+      "surface_state": "Block{minecraft:iron_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_053.nbt",
+      "surface_state": "Block{minecraft:grass_block}[snowy\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_054.nbt",
+      "surface_state": "Block{minecraft:redstone_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_055.nbt",
+      "surface_state": "Block{minecraft:verdant_froglight}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_056.nbt",
+      "surface_state": "Block{minecraft:emerald_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_057.nbt",
+      "surface_state": "Block{minecraft:gold_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_058.nbt",
+      "surface_state": "Block{minecraft:lapis_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_059.nbt",
+      "surface_state": "Block{minecraft:raw_iron_block}",
+      "all_three_shades_match": true
+    }
+  ]
+}

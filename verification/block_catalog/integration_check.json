@@ -1,0 +1,12 @@
+{
+  "all_blocks_cli_png_and_map_identical": true,
+  "sample_maps": [
+    1,
+    1
+  ],
+  "sample_blocks": 34952,
+  "sample_materials": 40,
+  "zip_tiles": 1,
+  "legacy_png_matches_bytes": true,
+  "legacy_png_sha256": "1320c8f317407014baf1c79872b06492cea3089370291e79202b6769a820e7ff"
+}

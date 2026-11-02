@@ -1,0 +1,3432 @@
+{
+  "minecraft": "26.3",
+  "data_version": 5023,
+  "variants_checked": 685,
+  "results": [
+    {
+      "file": "block_000.nbt",
+      "surface_state": "Block{minecraft:white_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_001.nbt",
+      "surface_state": "Block{minecraft:orange_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_002.nbt",
+      "surface_state": "Block{minecraft:magenta_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_003.nbt",
+      "surface_state": "Block{minecraft:light_blue_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_004.nbt",
+      "surface_state": "Block{minecraft:yellow_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_005.nbt",
+      "surface_state": "Block{minecraft:lime_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_006.nbt",
+      "surface_state": "Block{minecraft:pink_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_007.nbt",
+      "surface_state": "Block{minecraft:gray_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_008.nbt",
+      "surface_state": "Block{minecraft:light_gray_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_009.nbt",
+      "surface_state": "Block{minecraft:cyan_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_010.nbt",
+      "surface_state": "Block{minecraft:purple_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_011.nbt",
+      "surface_state": "Block{minecraft:blue_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_012.nbt",
+      "surface_state": "Block{minecraft:brown_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_013.nbt",
+      "surface_state": "Block{minecraft:green_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_014.nbt",
+      "surface_state": "Block{minecraft:red_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_015.nbt",
+      "surface_state": "Block{minecraft:black_wool}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_016.nbt",
+      "surface_state": "Block{minecraft:white_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_017.nbt",
+      "surface_state": "Block{minecraft:orange_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_018.nbt",
+      "surface_state": "Block{minecraft:magenta_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_019.nbt",
+      "surface_state": "Block{minecraft:light_blue_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_020.nbt",
+      "surface_state": "Block{minecraft:yellow_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_021.nbt",
+      "surface_state": "Block{minecraft:lime_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_022.nbt",
+      "surface_state": "Block{minecraft:pink_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_023.nbt",
+      "surface_state": "Block{minecraft:gray_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_024.nbt",
+      "surface_state": "Block{minecraft:light_gray_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_025.nbt",
+      "surface_state": "Block{minecraft:cyan_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_026.nbt",
+      "surface_state": "Block{minecraft:purple_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_027.nbt",
+      "surface_state": "Block{minecraft:blue_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_028.nbt",
+      "surface_state": "Block{minecraft:brown_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_029.nbt",
+      "surface_state": "Block{minecraft:green_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_030.nbt",
+      "surface_state": "Block{minecraft:red_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_031.nbt",
+      "surface_state": "Block{minecraft:black_terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_032.nbt",
+      "surface_state": "Block{minecraft:clay}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_033.nbt",
+      "surface_state": "Block{minecraft:prismarine_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_034.nbt",
+      "surface_state": "Block{minecraft:packed_ice}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_035.nbt",
+      "surface_state": "Block{minecraft:sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_036.nbt",
+      "surface_state": "Block{minecraft:stone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_037.nbt",
+      "surface_state": "Block{minecraft:oak_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_038.nbt",
+      "surface_state": "Block{minecraft:black_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_039.nbt",
+      "surface_state": "Block{minecraft:black_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_040.nbt",
+      "surface_state": "Block{minecraft:blue_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_041.nbt",
+      "surface_state": "Block{minecraft:blue_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_042.nbt",
+      "surface_state": "Block{minecraft:brown_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_043.nbt",
+      "surface_state": "Block{minecraft:brown_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_044.nbt",
+      "surface_state": "Block{minecraft:cyan_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_045.nbt",
+      "surface_state": "Block{minecraft:cyan_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_046.nbt",
+      "surface_state": "Block{minecraft:gray_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_047.nbt",
+      "surface_state": "Block{minecraft:gray_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_048.nbt",
+      "surface_state": "Block{minecraft:green_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_049.nbt",
+      "surface_state": "Block{minecraft:green_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_050.nbt",
+      "surface_state": "Block{minecraft:light_blue_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_051.nbt",
+      "surface_state": "Block{minecraft:light_blue_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_052.nbt",
+      "surface_state": "Block{minecraft:light_gray_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_053.nbt",
+      "surface_state": "Block{minecraft:light_gray_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_054.nbt",
+      "surface_state": "Block{minecraft:lime_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_055.nbt",
+      "surface_state": "Block{minecraft:lime_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_056.nbt",
+      "surface_state": "Block{minecraft:magenta_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_057.nbt",
+      "surface_state": "Block{minecraft:magenta_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_058.nbt",
+      "surface_state": "Block{minecraft:orange_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_059.nbt",
+      "surface_state": "Block{minecraft:orange_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_060.nbt",
+      "surface_state": "Block{minecraft:pink_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_061.nbt",
+      "surface_state": "Block{minecraft:pink_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_062.nbt",
+      "surface_state": "Block{minecraft:purple_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_063.nbt",
+      "surface_state": "Block{minecraft:purple_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_064.nbt",
+      "surface_state": "Block{minecraft:red_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_065.nbt",
+      "surface_state": "Block{minecraft:red_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_066.nbt",
+      "surface_state": "Block{minecraft:white_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_067.nbt",
+      "surface_state": "Block{minecraft:white_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_068.nbt",
+      "surface_state": "Block{minecraft:yellow_wool_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_069.nbt",
+      "surface_state": "Block{minecraft:yellow_wool_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_070.nbt",
+      "surface_state": "Block{minecraft:black_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_071.nbt",
+      "surface_state": "Block{minecraft:black_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_072.nbt",
+      "surface_state": "Block{minecraft:black_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_073.nbt",
+      "surface_state": "Block{minecraft:black_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_074.nbt",
+      "surface_state": "Block{minecraft:blue_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_075.nbt",
+      "surface_state": "Block{minecraft:blue_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_076.nbt",
+      "surface_state": "Block{minecraft:blue_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_077.nbt",
+      "surface_state": "Block{minecraft:blue_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_078.nbt",
+      "surface_state": "Block{minecraft:brown_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_079.nbt",
+      "surface_state": "Block{minecraft:brown_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_080.nbt",
+      "surface_state": "Block{minecraft:brown_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_081.nbt",
+      "surface_state": "Block{minecraft:brown_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_082.nbt",
+      "surface_state": "Block{minecraft:cyan_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_083.nbt",
+      "surface_state": "Block{minecraft:cyan_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_084.nbt",
+      "surface_state": "Block{minecraft:cyan_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_085.nbt",
+      "surface_state": "Block{minecraft:cyan_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_086.nbt",
+      "surface_state": "Block{minecraft:gray_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_087.nbt",
+      "surface_state": "Block{minecraft:gray_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_088.nbt",
+      "surface_state": "Block{minecraft:gray_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_089.nbt",
+      "surface_state": "Block{minecraft:gray_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_090.nbt",
+      "surface_state": "Block{minecraft:green_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_091.nbt",
+      "surface_state": "Block{minecraft:green_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_092.nbt",
+      "surface_state": "Block{minecraft:green_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_093.nbt",
+      "surface_state": "Block{minecraft:green_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_094.nbt",
+      "surface_state": "Block{minecraft:light_blue_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_095.nbt",
+      "surface_state": "Block{minecraft:light_blue_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_096.nbt",
+      "surface_state": "Block{minecraft:light_blue_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_097.nbt",
+      "surface_state": "Block{minecraft:light_blue_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_098.nbt",
+      "surface_state": "Block{minecraft:light_gray_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_099.nbt",
+      "surface_state": "Block{minecraft:light_gray_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_100.nbt",
+      "surface_state": "Block{minecraft:light_gray_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_101.nbt",
+      "surface_state": "Block{minecraft:light_gray_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_102.nbt",
+      "surface_state": "Block{minecraft:lime_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_103.nbt",
+      "surface_state": "Block{minecraft:lime_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_104.nbt",
+      "surface_state": "Block{minecraft:lime_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_105.nbt",
+      "surface_state": "Block{minecraft:lime_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_106.nbt",
+      "surface_state": "Block{minecraft:magenta_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_107.nbt",
+      "surface_state": "Block{minecraft:magenta_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_108.nbt",
+      "surface_state": "Block{minecraft:magenta_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_109.nbt",
+      "surface_state": "Block{minecraft:magenta_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_110.nbt",
+      "surface_state": "Block{minecraft:orange_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_111.nbt",
+      "surface_state": "Block{minecraft:orange_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_112.nbt",
+      "surface_state": "Block{minecraft:orange_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_113.nbt",
+      "surface_state": "Block{minecraft:orange_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_114.nbt",
+      "surface_state": "Block{minecraft:pink_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_115.nbt",
+      "surface_state": "Block{minecraft:pink_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_116.nbt",
+      "surface_state": "Block{minecraft:pink_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_117.nbt",
+      "surface_state": "Block{minecraft:pink_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_118.nbt",
+      "surface_state": "Block{minecraft:purple_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_119.nbt",
+      "surface_state": "Block{minecraft:purple_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_120.nbt",
+      "surface_state": "Block{minecraft:purple_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_121.nbt",
+      "surface_state": "Block{minecraft:purple_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_122.nbt",
+      "surface_state": "Block{minecraft:red_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_123.nbt",
+      "surface_state": "Block{minecraft:red_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_124.nbt",
+      "surface_state": "Block{minecraft:red_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_125.nbt",
+      "surface_state": "Block{minecraft:red_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_126.nbt",
+      "surface_state": "Block{minecraft:white_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_127.nbt",
+      "surface_state": "Block{minecraft:white_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_128.nbt",
+      "surface_state": "Block{minecraft:white_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_129.nbt",
+      "surface_state": "Block{minecraft:white_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_130.nbt",
+      "surface_state": "Block{minecraft:yellow_concrete}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_131.nbt",
+      "surface_state": "Block{minecraft:yellow_concrete_powder}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_132.nbt",
+      "surface_state": "Block{minecraft:yellow_concrete_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_133.nbt",
+      "surface_state": "Block{minecraft:yellow_concrete_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_134.nbt",
+      "surface_state": "Block{minecraft:black_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_135.nbt",
+      "surface_state": "Block{minecraft:blue_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_136.nbt",
+      "surface_state": "Block{minecraft:brown_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_137.nbt",
+      "surface_state": "Block{minecraft:cyan_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_138.nbt",
+      "surface_state": "Block{minecraft:gray_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_139.nbt",
+      "surface_state": "Block{minecraft:green_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_140.nbt",
+      "surface_state": "Block{minecraft:light_blue_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_141.nbt",
+      "surface_state": "Block{minecraft:light_gray_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_142.nbt",
+      "surface_state": "Block{minecraft:lime_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_143.nbt",
+      "surface_state": "Block{minecraft:magenta_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_144.nbt",
+      "surface_state": "Block{minecraft:orange_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_145.nbt",
+      "surface_state": "Block{minecraft:pink_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_146.nbt",
+      "surface_state": "Block{minecraft:purple_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_147.nbt",
+      "surface_state": "Block{minecraft:red_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_148.nbt",
+      "surface_state": "Block{minecraft:white_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_149.nbt",
+      "surface_state": "Block{minecraft:yellow_glazed_terracotta}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_150.nbt",
+      "surface_state": "Block{minecraft:acacia_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_151.nbt",
+      "surface_state": "Block{minecraft:acacia_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_152.nbt",
+      "surface_state": "Block{minecraft:acacia_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_153.nbt",
+      "surface_state": "Block{minecraft:acacia_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_154.nbt",
+      "surface_state": "Block{minecraft:acacia_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_155.nbt",
+      "surface_state": "Block{minecraft:acacia_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_156.nbt",
+      "surface_state": "Block{minecraft:acacia_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_157.nbt",
+      "surface_state": "Block{minecraft:acacia_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_158.nbt",
+      "surface_state": "Block{minecraft:acacia_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_159.nbt",
+      "surface_state": "Block{minecraft:acacia_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_160.nbt",
+      "surface_state": "Block{minecraft:acacia_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_161.nbt",
+      "surface_state": "Block{minecraft:birch_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_162.nbt",
+      "surface_state": "Block{minecraft:birch_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_163.nbt",
+      "surface_state": "Block{minecraft:birch_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_164.nbt",
+      "surface_state": "Block{minecraft:birch_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_165.nbt",
+      "surface_state": "Block{minecraft:birch_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_166.nbt",
+      "surface_state": "Block{minecraft:birch_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_167.nbt",
+      "surface_state": "Block{minecraft:birch_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_168.nbt",
+      "surface_state": "Block{minecraft:birch_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_169.nbt",
+      "surface_state": "Block{minecraft:birch_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_170.nbt",
+      "surface_state": "Block{minecraft:birch_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_171.nbt",
+      "surface_state": "Block{minecraft:birch_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_172.nbt",
+      "surface_state": "Block{minecraft:cherry_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_173.nbt",
+      "surface_state": "Block{minecraft:cherry_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_174.nbt",
+      "surface_state": "Block{minecraft:cherry_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_175.nbt",
+      "surface_state": "Block{minecraft:cherry_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_176.nbt",
+      "surface_state": "Block{minecraft:cherry_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_177.nbt",
+      "surface_state": "Block{minecraft:cherry_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_178.nbt",
+      "surface_state": "Block{minecraft:cherry_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_179.nbt",
+      "surface_state": "Block{minecraft:cherry_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_180.nbt",
+      "surface_state": "Block{minecraft:cherry_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_181.nbt",
+      "surface_state": "Block{minecraft:cherry_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_182.nbt",
+      "surface_state": "Block{minecraft:cherry_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_183.nbt",
+      "surface_state": "Block{minecraft:crimson_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_184.nbt",
+      "surface_state": "Block{minecraft:crimson_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_185.nbt",
+      "surface_state": "Block{minecraft:crimson_hyphae}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_186.nbt",
+      "surface_state": "Block{minecraft:crimson_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_187.nbt",
+      "surface_state": "Block{minecraft:crimson_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_188.nbt",
+      "surface_state": "Block{minecraft:crimson_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_189.nbt",
+      "surface_state": "Block{minecraft:crimson_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_190.nbt",
+      "surface_state": "Block{minecraft:crimson_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_191.nbt",
+      "surface_state": "Block{minecraft:crimson_stem}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_192.nbt",
+      "surface_state": "Block{minecraft:crimson_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_193.nbt",
+      "surface_state": "Block{minecraft:dark_oak_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_194.nbt",
+      "surface_state": "Block{minecraft:dark_oak_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_195.nbt",
+      "surface_state": "Block{minecraft:dark_oak_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_196.nbt",
+      "surface_state": "Block{minecraft:dark_oak_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_197.nbt",
+      "surface_state": "Block{minecraft:dark_oak_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_198.nbt",
+      "surface_state": "Block{minecraft:dark_oak_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_199.nbt",
+      "surface_state": "Block{minecraft:dark_oak_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_200.nbt",
+      "surface_state": "Block{minecraft:dark_oak_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_201.nbt",
+      "surface_state": "Block{minecraft:dark_oak_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_202.nbt",
+      "surface_state": "Block{minecraft:dark_oak_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_203.nbt",
+      "surface_state": "Block{minecraft:jungle_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_204.nbt",
+      "surface_state": "Block{minecraft:jungle_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_205.nbt",
+      "surface_state": "Block{minecraft:jungle_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_206.nbt",
+      "surface_state": "Block{minecraft:jungle_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_207.nbt",
+      "surface_state": "Block{minecraft:jungle_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_208.nbt",
+      "surface_state": "Block{minecraft:jungle_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_209.nbt",
+      "surface_state": "Block{minecraft:jungle_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_210.nbt",
+      "surface_state": "Block{minecraft:jungle_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_211.nbt",
+      "surface_state": "Block{minecraft:jungle_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_212.nbt",
+      "surface_state": "Block{minecraft:jungle_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_213.nbt",
+      "surface_state": "Block{minecraft:jungle_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_214.nbt",
+      "surface_state": "Block{minecraft:mangrove_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_215.nbt",
+      "surface_state": "Block{minecraft:mangrove_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_216.nbt",
+      "surface_state": "Block{minecraft:mangrove_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_217.nbt",
+      "surface_state": "Block{minecraft:mangrove_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_218.nbt",
+      "surface_state": "Block{minecraft:mangrove_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_219.nbt",
+      "surface_state": "Block{minecraft:mangrove_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_220.nbt",
+      "surface_state": "Block{minecraft:mangrove_roots}[waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_221.nbt",
+      "surface_state": "Block{minecraft:mangrove_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_222.nbt",
+      "surface_state": "Block{minecraft:mangrove_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_223.nbt",
+      "surface_state": "Block{minecraft:mangrove_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_224.nbt",
+      "surface_state": "Block{minecraft:mangrove_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_225.nbt",
+      "surface_state": "Block{minecraft:mangrove_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_226.nbt",
+      "surface_state": "Block{minecraft:muddy_mangrove_roots}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_227.nbt",
+      "surface_state": "Block{minecraft:oak_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_228.nbt",
+      "surface_state": "Block{minecraft:oak_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_229.nbt",
+      "surface_state": "Block{minecraft:oak_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_230.nbt",
+      "surface_state": "Block{minecraft:oak_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_231.nbt",
+      "surface_state": "Block{minecraft:oak_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_232.nbt",
+      "surface_state": "Block{minecraft:oak_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_233.nbt",
+      "surface_state": "Block{minecraft:oak_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_234.nbt",
+      "surface_state": "Block{minecraft:oak_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_235.nbt",
+      "surface_state": "Block{minecraft:oak_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_236.nbt",
+      "surface_state": "Block{minecraft:oak_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_237.nbt",
+      "surface_state": "Block{minecraft:pale_oak_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_238.nbt",
+      "surface_state": "Block{minecraft:pale_oak_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_239.nbt",
+      "surface_state": "Block{minecraft:pale_oak_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_240.nbt",
+      "surface_state": "Block{minecraft:pale_oak_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_241.nbt",
+      "surface_state": "Block{minecraft:pale_oak_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_242.nbt",
+      "surface_state": "Block{minecraft:pale_oak_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_243.nbt",
+      "surface_state": "Block{minecraft:pale_oak_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_244.nbt",
+      "surface_state": "Block{minecraft:pale_oak_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_245.nbt",
+      "surface_state": "Block{minecraft:pale_oak_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_246.nbt",
+      "surface_state": "Block{minecraft:pale_oak_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_247.nbt",
+      "surface_state": "Block{minecraft:petrified_oak_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_248.nbt",
+      "surface_state": "Block{minecraft:poplar_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_249.nbt",
+      "surface_state": "Block{minecraft:poplar_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_250.nbt",
+      "surface_state": "Block{minecraft:poplar_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_251.nbt",
+      "surface_state": "Block{minecraft:poplar_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_252.nbt",
+      "surface_state": "Block{minecraft:poplar_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_253.nbt",
+      "surface_state": "Block{minecraft:poplar_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_254.nbt",
+      "surface_state": "Block{minecraft:poplar_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_255.nbt",
+      "surface_state": "Block{minecraft:poplar_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_256.nbt",
+      "surface_state": "Block{minecraft:poplar_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_257.nbt",
+      "surface_state": "Block{minecraft:poplar_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_258.nbt",
+      "surface_state": "Block{minecraft:spruce_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_259.nbt",
+      "surface_state": "Block{minecraft:spruce_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_260.nbt",
+      "surface_state": "Block{minecraft:spruce_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_261.nbt",
+      "surface_state": "Block{minecraft:spruce_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_262.nbt",
+      "surface_state": "Block{minecraft:spruce_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_263.nbt",
+      "surface_state": "Block{minecraft:spruce_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_264.nbt",
+      "surface_state": "Block{minecraft:spruce_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_265.nbt",
+      "surface_state": "Block{minecraft:spruce_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_266.nbt",
+      "surface_state": "Block{minecraft:spruce_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_267.nbt",
+      "surface_state": "Block{minecraft:spruce_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_268.nbt",
+      "surface_state": "Block{minecraft:spruce_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_269.nbt",
+      "surface_state": "Block{minecraft:stripped_acacia_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_270.nbt",
+      "surface_state": "Block{minecraft:stripped_acacia_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_271.nbt",
+      "surface_state": "Block{minecraft:stripped_birch_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_272.nbt",
+      "surface_state": "Block{minecraft:stripped_birch_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_273.nbt",
+      "surface_state": "Block{minecraft:stripped_cherry_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_274.nbt",
+      "surface_state": "Block{minecraft:stripped_cherry_log}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_275.nbt",
+      "surface_state": "Block{minecraft:stripped_cherry_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_276.nbt",
+      "surface_state": "Block{minecraft:stripped_crimson_hyphae}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_277.nbt",
+      "surface_state": "Block{minecraft:stripped_crimson_stem}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_278.nbt",
+      "surface_state": "Block{minecraft:stripped_dark_oak_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_279.nbt",
+      "surface_state": "Block{minecraft:stripped_dark_oak_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_280.nbt",
+      "surface_state": "Block{minecraft:stripped_jungle_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_281.nbt",
+      "surface_state": "Block{minecraft:stripped_jungle_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_282.nbt",
+      "surface_state": "Block{minecraft:stripped_mangrove_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_283.nbt",
+      "surface_state": "Block{minecraft:stripped_mangrove_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_284.nbt",
+      "surface_state": "Block{minecraft:stripped_oak_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_285.nbt",
+      "surface_state": "Block{minecraft:stripped_oak_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_286.nbt",
+      "surface_state": "Block{minecraft:stripped_pale_oak_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_287.nbt",
+      "surface_state": "Block{minecraft:stripped_pale_oak_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_288.nbt",
+      "surface_state": "Block{minecraft:stripped_poplar_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_289.nbt",
+      "surface_state": "Block{minecraft:stripped_poplar_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_290.nbt",
+      "surface_state": "Block{minecraft:stripped_spruce_log}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_291.nbt",
+      "surface_state": "Block{minecraft:stripped_spruce_wood}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_292.nbt",
+      "surface_state": "Block{minecraft:stripped_warped_hyphae}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_293.nbt",
+      "surface_state": "Block{minecraft:stripped_warped_stem}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_294.nbt",
+      "surface_state": "Block{minecraft:warped_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_295.nbt",
+      "surface_state": "Block{minecraft:warped_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_296.nbt",
+      "surface_state": "Block{minecraft:warped_hyphae}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_297.nbt",
+      "surface_state": "Block{minecraft:warped_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_298.nbt",
+      "surface_state": "Block{minecraft:warped_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_299.nbt",
+      "surface_state": "Block{minecraft:warped_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_300.nbt",
+      "surface_state": "Block{minecraft:warped_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_301.nbt",
+      "surface_state": "Block{minecraft:warped_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_302.nbt",
+      "surface_state": "Block{minecraft:warped_stem}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_303.nbt",
+      "surface_state": "Block{minecraft:warped_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_304.nbt",
+      "surface_state": "Block{minecraft:bamboo_block}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_305.nbt",
+      "surface_state": "Block{minecraft:bamboo_block}[axis\u003dx]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_306.nbt",
+      "surface_state": "Block{minecraft:bamboo_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_307.nbt",
+      "surface_state": "Block{minecraft:bamboo_fence_gate}[facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_308.nbt",
+      "surface_state": "Block{minecraft:bamboo_mosaic}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_309.nbt",
+      "surface_state": "Block{minecraft:bamboo_mosaic_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_310.nbt",
+      "surface_state": "Block{minecraft:bamboo_mosaic_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_311.nbt",
+      "surface_state": "Block{minecraft:bamboo_planks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_312.nbt",
+      "surface_state": "Block{minecraft:bamboo_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_313.nbt",
+      "surface_state": "Block{minecraft:bamboo_shelf}[facing\u003dnorth,powered\u003dfalse,side_chain\u003dunconnected,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_314.nbt",
+      "surface_state": "Block{minecraft:bamboo_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_315.nbt",
+      "surface_state": "Block{minecraft:bamboo_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_316.nbt",
+      "surface_state": "Block{minecraft:bamboo_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_317.nbt",
+      "surface_state": "Block{minecraft:stripped_bamboo_block}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_318.nbt",
+      "surface_state": "Block{minecraft:brown_mushroom_block}[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_319.nbt",
+      "surface_state": "Block{minecraft:crimson_nylium}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_320.nbt",
+      "surface_state": "Block{minecraft:mushroom_stem}[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_321.nbt",
+      "surface_state": "Block{minecraft:nether_wart_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_322.nbt",
+      "surface_state": "Block{minecraft:red_mushroom_block}[down\u003dtrue,east\u003dtrue,north\u003dtrue,south\u003dtrue,up\u003dtrue,west\u003dtrue]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_323.nbt",
+      "surface_state": "Block{minecraft:shroomlight}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_324.nbt",
+      "surface_state": "Block{minecraft:warped_nylium}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_325.nbt",
+      "surface_state": "Block{minecraft:warped_wart_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_326.nbt",
+      "surface_state": "Block{minecraft:ancient_debris}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_327.nbt",
+      "surface_state": "Block{minecraft:andesite}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_328.nbt",
+      "surface_state": "Block{minecraft:andesite_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_329.nbt",
+      "surface_state": "Block{minecraft:andesite_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_330.nbt",
+      "surface_state": "Block{minecraft:basalt}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_331.nbt",
+      "surface_state": "Block{minecraft:bedrock}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_332.nbt",
+      "surface_state": "Block{minecraft:blackstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_333.nbt",
+      "surface_state": "Block{minecraft:blackstone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_334.nbt",
+      "surface_state": "Block{minecraft:blackstone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_335.nbt",
+      "surface_state": "Block{minecraft:bone_block}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_336.nbt",
+      "surface_state": "Block{minecraft:bookshelf}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_337.nbt",
+      "surface_state": "Block{minecraft:brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_338.nbt",
+      "surface_state": "Block{minecraft:brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_339.nbt",
+      "surface_state": "Block{minecraft:bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_340.nbt",
+      "surface_state": "Block{minecraft:calcite}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_341.nbt",
+      "surface_state": "Block{minecraft:carved_pumpkin}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_342.nbt",
+      "surface_state": "Block{minecraft:chiseled_cinnabar}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_343.nbt",
+      "surface_state": "Block{minecraft:chiseled_deepslate}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_344.nbt",
+      "surface_state": "Block{minecraft:chiseled_nether_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_345.nbt",
+      "surface_state": "Block{minecraft:chiseled_polished_blackstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_346.nbt",
+      "surface_state": "Block{minecraft:chiseled_quartz_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_347.nbt",
+      "surface_state": "Block{minecraft:chiseled_red_sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_348.nbt",
+      "surface_state": "Block{minecraft:chiseled_resin_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_349.nbt",
+      "surface_state": "Block{minecraft:chiseled_sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_350.nbt",
+      "surface_state": "Block{minecraft:chiseled_stone_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_351.nbt",
+      "surface_state": "Block{minecraft:chiseled_sulfur}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_352.nbt",
+      "surface_state": "Block{minecraft:chiseled_tuff}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_353.nbt",
+      "surface_state": "Block{minecraft:chiseled_tuff_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_354.nbt",
+      "surface_state": "Block{minecraft:cinnabar}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_355.nbt",
+      "surface_state": "Block{minecraft:cinnabar_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_356.nbt",
+      "surface_state": "Block{minecraft:cinnabar_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_357.nbt",
+      "surface_state": "Block{minecraft:cinnabar_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_358.nbt",
+      "surface_state": "Block{minecraft:cinnabar_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_359.nbt",
+      "surface_state": "Block{minecraft:cinnabar_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_360.nbt",
+      "surface_state": "Block{minecraft:cobbled_deepslate}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_361.nbt",
+      "surface_state": "Block{minecraft:cobbled_deepslate_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_362.nbt",
+      "surface_state": "Block{minecraft:cobbled_deepslate_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_363.nbt",
+      "surface_state": "Block{minecraft:cobblestone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_364.nbt",
+      "surface_state": "Block{minecraft:cobblestone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_365.nbt",
+      "surface_state": "Block{minecraft:cobblestone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_366.nbt",
+      "surface_state": "Block{minecraft:cobweb}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_367.nbt",
+      "surface_state": "Block{minecraft:cracked_deepslate_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_368.nbt",
+      "surface_state": "Block{minecraft:cracked_deepslate_tiles}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_369.nbt",
+      "surface_state": "Block{minecraft:cracked_nether_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_370.nbt",
+      "surface_state": "Block{minecraft:cracked_polished_blackstone_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_371.nbt",
+      "surface_state": "Block{minecraft:cracked_stone_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_372.nbt",
+      "surface_state": "Block{minecraft:crafting_table}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_373.nbt",
+      "surface_state": "Block{minecraft:crying_obsidian}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_374.nbt",
+      "surface_state": "Block{minecraft:cut_red_sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_375.nbt",
+      "surface_state": "Block{minecraft:cut_red_sandstone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_376.nbt",
+      "surface_state": "Block{minecraft:cut_sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_377.nbt",
+      "surface_state": "Block{minecraft:cut_sandstone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_378.nbt",
+      "surface_state": "Block{minecraft:dark_prismarine}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_379.nbt",
+      "surface_state": "Block{minecraft:dark_prismarine_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_380.nbt",
+      "surface_state": "Block{minecraft:dark_prismarine_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_381.nbt",
+      "surface_state": "Block{minecraft:dead_brain_coral_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_382.nbt",
+      "surface_state": "Block{minecraft:dead_bubble_coral_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_383.nbt",
+      "surface_state": "Block{minecraft:dead_fire_coral_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_384.nbt",
+      "surface_state": "Block{minecraft:dead_horn_coral_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_385.nbt",
+      "surface_state": "Block{minecraft:dead_tube_coral_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_386.nbt",
+      "surface_state": "Block{minecraft:deepslate}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_387.nbt",
+      "surface_state": "Block{minecraft:deepslate_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_388.nbt",
+      "surface_state": "Block{minecraft:deepslate_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_389.nbt",
+      "surface_state": "Block{minecraft:deepslate_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_390.nbt",
+      "surface_state": "Block{minecraft:deepslate_tile_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_391.nbt",
+      "surface_state": "Block{minecraft:deepslate_tile_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_392.nbt",
+      "surface_state": "Block{minecraft:deepslate_tiles}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_393.nbt",
+      "surface_state": "Block{minecraft:diorite}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_394.nbt",
+      "surface_state": "Block{minecraft:diorite_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_395.nbt",
+      "surface_state": "Block{minecraft:diorite_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_396.nbt",
+      "surface_state": "Block{minecraft:dripstone_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_397.nbt",
+      "surface_state": "Block{minecraft:end_stone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_398.nbt",
+      "surface_state": "Block{minecraft:end_stone_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_399.nbt",
+      "surface_state": "Block{minecraft:end_stone_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_400.nbt",
+      "surface_state": "Block{minecraft:end_stone_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_401.nbt",
+      "surface_state": "Block{minecraft:fletching_table}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_402.nbt",
+      "surface_state": "Block{minecraft:gilded_blackstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_403.nbt",
+      "surface_state": "Block{minecraft:glowstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_404.nbt",
+      "surface_state": "Block{minecraft:granite}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_405.nbt",
+      "surface_state": "Block{minecraft:granite_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_406.nbt",
+      "surface_state": "Block{minecraft:granite_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_407.nbt",
+      "surface_state": "Block{minecraft:gravel}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_408.nbt",
+      "surface_state": "Block{minecraft:honey_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_409.nbt",
+      "surface_state": "Block{minecraft:honeycomb_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_410.nbt",
+      "surface_state": "Block{minecraft:iron_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_411.nbt",
+      "surface_state": "Block{minecraft:jack_o_lantern}[facing\u003dnorth]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_412.nbt",
+      "surface_state": "Block{minecraft:jukebox}[has_record\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_413.nbt",
+      "surface_state": "Block{minecraft:lodestone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_414.nbt",
+      "surface_state": "Block{minecraft:magma_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_415.nbt",
+      "surface_state": "Block{minecraft:mud}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_416.nbt",
+      "surface_state": "Block{minecraft:mud_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_417.nbt",
+      "surface_state": "Block{minecraft:mud_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_418.nbt",
+      "surface_state": "Block{minecraft:mud_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_419.nbt",
+      "surface_state": "Block{minecraft:nether_brick_fence}[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_420.nbt",
+      "surface_state": "Block{minecraft:nether_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_421.nbt",
+      "surface_state": "Block{minecraft:nether_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_422.nbt",
+      "surface_state": "Block{minecraft:nether_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_423.nbt",
+      "surface_state": "Block{minecraft:netherrack}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_424.nbt",
+      "surface_state": "Block{minecraft:obsidian}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_425.nbt",
+      "surface_state": "Block{minecraft:ochre_froglight}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_426.nbt",
+      "surface_state": "Block{minecraft:packed_mud}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_427.nbt",
+      "surface_state": "Block{minecraft:pearlescent_froglight}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_428.nbt",
+      "surface_state": "Block{minecraft:pointed_dripstone}[thickness\u003dtip,vertical_direction\u003dup,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_429.nbt",
+      "surface_state": "Block{minecraft:polished_andesite}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_430.nbt",
+      "surface_state": "Block{minecraft:polished_andesite_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_431.nbt",
+      "surface_state": "Block{minecraft:polished_andesite_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_432.nbt",
+      "surface_state": "Block{minecraft:polished_basalt}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_433.nbt",
+      "surface_state": "Block{minecraft:polished_blackstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_434.nbt",
+      "surface_state": "Block{minecraft:polished_blackstone_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_435.nbt",
+      "surface_state": "Block{minecraft:polished_blackstone_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_436.nbt",
+      "surface_state": "Block{minecraft:polished_blackstone_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_437.nbt",
+      "surface_state": "Block{minecraft:polished_blackstone_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_438.nbt",
+      "surface_state": "Block{minecraft:polished_blackstone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_439.nbt",
+      "surface_state": "Block{minecraft:polished_blackstone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_440.nbt",
+      "surface_state": "Block{minecraft:polished_cinnabar}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_441.nbt",
+      "surface_state": "Block{minecraft:polished_cinnabar_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_442.nbt",
+      "surface_state": "Block{minecraft:polished_cinnabar_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_443.nbt",
+      "surface_state": "Block{minecraft:polished_deepslate}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_444.nbt",
+      "surface_state": "Block{minecraft:polished_deepslate_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_445.nbt",
+      "surface_state": "Block{minecraft:polished_deepslate_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_446.nbt",
+      "surface_state": "Block{minecraft:polished_diorite}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_447.nbt",
+      "surface_state": "Block{minecraft:polished_diorite_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_448.nbt",
+      "surface_state": "Block{minecraft:polished_diorite_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_449.nbt",
+      "surface_state": "Block{minecraft:polished_granite}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_450.nbt",
+      "surface_state": "Block{minecraft:polished_granite_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_451.nbt",
+      "surface_state": "Block{minecraft:polished_granite_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_452.nbt",
+      "surface_state": "Block{minecraft:polished_sulfur}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_453.nbt",
+      "surface_state": "Block{minecraft:polished_sulfur_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_454.nbt",
+      "surface_state": "Block{minecraft:polished_sulfur_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_455.nbt",
+      "surface_state": "Block{minecraft:polished_tuff}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_456.nbt",
+      "surface_state": "Block{minecraft:polished_tuff_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_457.nbt",
+      "surface_state": "Block{minecraft:polished_tuff_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_458.nbt",
+      "surface_state": "Block{minecraft:prismarine}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_459.nbt",
+      "surface_state": "Block{minecraft:prismarine_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_460.nbt",
+      "surface_state": "Block{minecraft:prismarine_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_461.nbt",
+      "surface_state": "Block{minecraft:prismarine_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_462.nbt",
+      "surface_state": "Block{minecraft:prismarine_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_463.nbt",
+      "surface_state": "Block{minecraft:purpur_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_464.nbt",
+      "surface_state": "Block{minecraft:purpur_pillar}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_465.nbt",
+      "surface_state": "Block{minecraft:purpur_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_466.nbt",
+      "surface_state": "Block{minecraft:purpur_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_467.nbt",
+      "surface_state": "Block{minecraft:quartz_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_468.nbt",
+      "surface_state": "Block{minecraft:quartz_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_469.nbt",
+      "surface_state": "Block{minecraft:quartz_pillar}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_470.nbt",
+      "surface_state": "Block{minecraft:quartz_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_471.nbt",
+      "surface_state": "Block{minecraft:quartz_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_472.nbt",
+      "surface_state": "Block{minecraft:red_nether_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_473.nbt",
+      "surface_state": "Block{minecraft:red_nether_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_474.nbt",
+      "surface_state": "Block{minecraft:red_nether_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_475.nbt",
+      "surface_state": "Block{minecraft:red_sand}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_476.nbt",
+      "surface_state": "Block{minecraft:red_sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_477.nbt",
+      "surface_state": "Block{minecraft:red_sandstone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_478.nbt",
+      "surface_state": "Block{minecraft:red_sandstone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_479.nbt",
+      "surface_state": "Block{minecraft:resin_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_480.nbt",
+      "surface_state": "Block{minecraft:resin_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_481.nbt",
+      "surface_state": "Block{minecraft:resin_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_482.nbt",
+      "surface_state": "Block{minecraft:resin_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_483.nbt",
+      "surface_state": "Block{minecraft:sand}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_484.nbt",
+      "surface_state": "Block{minecraft:sandstone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_485.nbt",
+      "surface_state": "Block{minecraft:sandstone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_486.nbt",
+      "surface_state": "Block{minecraft:sculk}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_487.nbt",
+      "surface_state": "Block{minecraft:sculk_catalyst}[bloom\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_488.nbt",
+      "surface_state": "Block{minecraft:sculk_shrieker}[can_summon\u003dfalse,shrieking\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_489.nbt",
+      "surface_state": "Block{minecraft:sea_lantern}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_490.nbt",
+      "surface_state": "Block{minecraft:slime_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_491.nbt",
+      "surface_state": "Block{minecraft:smooth_basalt}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_492.nbt",
+      "surface_state": "Block{minecraft:smooth_quartz}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_493.nbt",
+      "surface_state": "Block{minecraft:smooth_quartz_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_494.nbt",
+      "surface_state": "Block{minecraft:smooth_quartz_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_495.nbt",
+      "surface_state": "Block{minecraft:smooth_red_sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_496.nbt",
+      "surface_state": "Block{minecraft:smooth_red_sandstone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_497.nbt",
+      "surface_state": "Block{minecraft:smooth_red_sandstone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_498.nbt",
+      "surface_state": "Block{minecraft:smooth_sandstone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_499.nbt",
+      "surface_state": "Block{minecraft:smooth_sandstone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_500.nbt",
+      "surface_state": "Block{minecraft:smooth_sandstone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_501.nbt",
+      "surface_state": "Block{minecraft:smooth_stone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_502.nbt",
+      "surface_state": "Block{minecraft:smooth_stone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_503.nbt",
+      "surface_state": "Block{minecraft:snow}[layers\u003d1]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_504.nbt",
+      "surface_state": "Block{minecraft:snow_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_505.nbt",
+      "surface_state": "Block{minecraft:soul_sand}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_506.nbt",
+      "surface_state": "Block{minecraft:soul_soil}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_507.nbt",
+      "surface_state": "Block{minecraft:stone_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_508.nbt",
+      "surface_state": "Block{minecraft:stone_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_509.nbt",
+      "surface_state": "Block{minecraft:stone_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_510.nbt",
+      "surface_state": "Block{minecraft:stone_pressure_plate}[powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_511.nbt",
+      "surface_state": "Block{minecraft:stone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_512.nbt",
+      "surface_state": "Block{minecraft:stone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_513.nbt",
+      "surface_state": "Block{minecraft:sulfur}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_514.nbt",
+      "surface_state": "Block{minecraft:sulfur_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_515.nbt",
+      "surface_state": "Block{minecraft:sulfur_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_516.nbt",
+      "surface_state": "Block{minecraft:sulfur_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_517.nbt",
+      "surface_state": "Block{minecraft:sulfur_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_518.nbt",
+      "surface_state": "Block{minecraft:sulfur_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_519.nbt",
+      "surface_state": "Block{minecraft:terracotta}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_520.nbt",
+      "surface_state": "Block{minecraft:tnt}[unstable\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_521.nbt",
+      "surface_state": "Block{minecraft:tuff}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_522.nbt",
+      "surface_state": "Block{minecraft:tuff_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_523.nbt",
+      "surface_state": "Block{minecraft:tuff_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_524.nbt",
+      "surface_state": "Block{minecraft:tuff_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_525.nbt",
+      "surface_state": "Block{minecraft:tuff_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_526.nbt",
+      "surface_state": "Block{minecraft:tuff_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_527.nbt",
+      "surface_state": "Block{minecraft:verdant_froglight}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_528.nbt",
+      "surface_state": "Block{minecraft:amethyst_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_529.nbt",
+      "surface_state": "Block{minecraft:chiseled_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_530.nbt",
+      "surface_state": "Block{minecraft:coal_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_531.nbt",
+      "surface_state": "Block{minecraft:coal_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_532.nbt",
+      "surface_state": "Block{minecraft:copper_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_533.nbt",
+      "surface_state": "Block{minecraft:copper_bulb}[lit\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_534.nbt",
+      "surface_state": "Block{minecraft:copper_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_535.nbt",
+      "surface_state": "Block{minecraft:cut_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_536.nbt",
+      "surface_state": "Block{minecraft:cut_copper_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_537.nbt",
+      "surface_state": "Block{minecraft:cut_copper_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_538.nbt",
+      "surface_state": "Block{minecraft:deepslate_coal_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_539.nbt",
+      "surface_state": "Block{minecraft:deepslate_copper_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_540.nbt",
+      "surface_state": "Block{minecraft:deepslate_diamond_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_541.nbt",
+      "surface_state": "Block{minecraft:deepslate_emerald_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_542.nbt",
+      "surface_state": "Block{minecraft:deepslate_gold_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_543.nbt",
+      "surface_state": "Block{minecraft:deepslate_iron_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_544.nbt",
+      "surface_state": "Block{minecraft:deepslate_lapis_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_545.nbt",
+      "surface_state": "Block{minecraft:deepslate_redstone_ore}[lit\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_546.nbt",
+      "surface_state": "Block{minecraft:diamond_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_547.nbt",
+      "surface_state": "Block{minecraft:diamond_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_548.nbt",
+      "surface_state": "Block{minecraft:emerald_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_549.nbt",
+      "surface_state": "Block{minecraft:emerald_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_550.nbt",
+      "surface_state": "Block{minecraft:exposed_chiseled_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_551.nbt",
+      "surface_state": "Block{minecraft:exposed_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_552.nbt",
+      "surface_state": "Block{minecraft:exposed_copper_bulb}[lit\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_553.nbt",
+      "surface_state": "Block{minecraft:exposed_cut_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_554.nbt",
+      "surface_state": "Block{minecraft:exposed_cut_copper_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_555.nbt",
+      "surface_state": "Block{minecraft:exposed_cut_copper_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_556.nbt",
+      "surface_state": "Block{minecraft:gold_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_557.nbt",
+      "surface_state": "Block{minecraft:gold_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_558.nbt",
+      "surface_state": "Block{minecraft:iron_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_559.nbt",
+      "surface_state": "Block{minecraft:iron_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_560.nbt",
+      "surface_state": "Block{minecraft:lapis_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_561.nbt",
+      "surface_state": "Block{minecraft:lapis_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_562.nbt",
+      "surface_state": "Block{minecraft:nether_gold_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_563.nbt",
+      "surface_state": "Block{minecraft:nether_quartz_ore}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_564.nbt",
+      "surface_state": "Block{minecraft:netherite_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_565.nbt",
+      "surface_state": "Block{minecraft:oxidized_chiseled_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_566.nbt",
+      "surface_state": "Block{minecraft:oxidized_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_567.nbt",
+      "surface_state": "Block{minecraft:oxidized_copper_bulb}[lit\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_568.nbt",
+      "surface_state": "Block{minecraft:oxidized_cut_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_569.nbt",
+      "surface_state": "Block{minecraft:oxidized_cut_copper_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_570.nbt",
+      "surface_state": "Block{minecraft:oxidized_cut_copper_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_571.nbt",
+      "surface_state": "Block{minecraft:raw_copper_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_572.nbt",
+      "surface_state": "Block{minecraft:raw_gold_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_573.nbt",
+      "surface_state": "Block{minecraft:raw_iron_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_574.nbt",
+      "surface_state": "Block{minecraft:redstone_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_575.nbt",
+      "surface_state": "Block{minecraft:redstone_ore}[lit\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_576.nbt",
+      "surface_state": "Block{minecraft:waxed_chiseled_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_577.nbt",
+      "surface_state": "Block{minecraft:waxed_copper_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_578.nbt",
+      "surface_state": "Block{minecraft:waxed_copper_bulb}[lit\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_579.nbt",
+      "surface_state": "Block{minecraft:waxed_copper_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_580.nbt",
+      "surface_state": "Block{minecraft:waxed_cut_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_581.nbt",
+      "surface_state": "Block{minecraft:waxed_cut_copper_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_582.nbt",
+      "surface_state": "Block{minecraft:waxed_cut_copper_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_583.nbt",
+      "surface_state": "Block{minecraft:waxed_exposed_chiseled_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_584.nbt",
+      "surface_state": "Block{minecraft:waxed_exposed_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_585.nbt",
+      "surface_state": "Block{minecraft:waxed_exposed_copper_bulb}[lit\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_586.nbt",
+      "surface_state": "Block{minecraft:waxed_exposed_copper_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_587.nbt",
+      "surface_state": "Block{minecraft:waxed_exposed_cut_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_588.nbt",
+      "surface_state": "Block{minecraft:waxed_exposed_cut_copper_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_589.nbt",
+      "surface_state": "Block{minecraft:waxed_exposed_cut_copper_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_590.nbt",
+      "surface_state": "Block{minecraft:waxed_oxidized_chiseled_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_591.nbt",
+      "surface_state": "Block{minecraft:waxed_oxidized_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_592.nbt",
+      "surface_state": "Block{minecraft:waxed_oxidized_copper_bulb}[lit\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_593.nbt",
+      "surface_state": "Block{minecraft:waxed_oxidized_copper_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_594.nbt",
+      "surface_state": "Block{minecraft:waxed_oxidized_cut_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_595.nbt",
+      "surface_state": "Block{minecraft:waxed_oxidized_cut_copper_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_596.nbt",
+      "surface_state": "Block{minecraft:waxed_oxidized_cut_copper_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_597.nbt",
+      "surface_state": "Block{minecraft:waxed_weathered_chiseled_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_598.nbt",
+      "surface_state": "Block{minecraft:waxed_weathered_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_599.nbt",
+      "surface_state": "Block{minecraft:waxed_weathered_copper_bulb}[lit\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_600.nbt",
+      "surface_state": "Block{minecraft:waxed_weathered_copper_trapdoor}[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_601.nbt",
+      "surface_state": "Block{minecraft:waxed_weathered_cut_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_602.nbt",
+      "surface_state": "Block{minecraft:waxed_weathered_cut_copper_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_603.nbt",
+      "surface_state": "Block{minecraft:waxed_weathered_cut_copper_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_604.nbt",
+      "surface_state": "Block{minecraft:weathered_chiseled_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_605.nbt",
+      "surface_state": "Block{minecraft:weathered_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_606.nbt",
+      "surface_state": "Block{minecraft:weathered_copper_bulb}[lit\u003dfalse,powered\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_607.nbt",
+      "surface_state": "Block{minecraft:weathered_cut_copper}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_608.nbt",
+      "surface_state": "Block{minecraft:weathered_cut_copper_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_609.nbt",
+      "surface_state": "Block{minecraft:weathered_cut_copper_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_610.nbt",
+      "surface_state": "Block{minecraft:acacia_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_611.nbt",
+      "surface_state": "Block{minecraft:azalea_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_612.nbt",
+      "surface_state": "Block{minecraft:birch_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_613.nbt",
+      "surface_state": "Block{minecraft:cherry_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_614.nbt",
+      "surface_state": "Block{minecraft:coarse_dirt}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_615.nbt",
+      "surface_state": "Block{minecraft:dark_oak_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_616.nbt",
+      "surface_state": "Block{minecraft:dirt}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_617.nbt",
+      "surface_state": "Block{minecraft:dried_kelp_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_618.nbt",
+      "surface_state": "Block{minecraft:flowering_azalea_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_619.nbt",
+      "surface_state": "Block{minecraft:grass_block}[snowy\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_620.nbt",
+      "surface_state": "Block{minecraft:hay_block}[axis\u003dy]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_621.nbt",
+      "surface_state": "Block{minecraft:jungle_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_622.nbt",
+      "surface_state": "Block{minecraft:mangrove_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_623.nbt",
+      "surface_state": "Block{minecraft:melon}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_624.nbt",
+      "surface_state": "Block{minecraft:moss_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_625.nbt",
+      "surface_state": "Block{minecraft:mossy_cobblestone}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_626.nbt",
+      "surface_state": "Block{minecraft:mossy_cobblestone_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_627.nbt",
+      "surface_state": "Block{minecraft:mossy_cobblestone_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_628.nbt",
+      "surface_state": "Block{minecraft:mossy_stone_brick_slab}[type\u003dtop,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_629.nbt",
+      "surface_state": "Block{minecraft:mossy_stone_brick_stairs}[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_630.nbt",
+      "surface_state": "Block{minecraft:mossy_stone_bricks}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_631.nbt",
+      "surface_state": "Block{minecraft:mycelium}[snowy\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_632.nbt",
+      "surface_state": "Block{minecraft:oak_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_633.nbt",
+      "surface_state": "Block{minecraft:orange_poplar_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_634.nbt",
+      "surface_state": "Block{minecraft:pale_moss_block}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_635.nbt",
+      "surface_state": "Block{minecraft:pale_oak_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_636.nbt",
+      "surface_state": "Block{minecraft:podzol}[snowy\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_637.nbt",
+      "surface_state": "Block{minecraft:pumpkin}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_638.nbt",
+      "surface_state": "Block{minecraft:red_poplar_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_639.nbt",
+      "surface_state": "Block{minecraft:rooted_dirt}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_640.nbt",
+      "surface_state": "Block{minecraft:sponge}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_641.nbt",
+      "surface_state": "Block{minecraft:spruce_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_642.nbt",
+      "surface_state": "Block{minecraft:wet_sponge}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_643.nbt",
+      "surface_state": "Block{minecraft:yellow_poplar_leaves}[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_644.nbt",
+      "surface_state": "Block{minecraft:black_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_645.nbt",
+      "surface_state": "Block{minecraft:blue_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_646.nbt",
+      "surface_state": "Block{minecraft:brown_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_647.nbt",
+      "surface_state": "Block{minecraft:cyan_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_648.nbt",
+      "surface_state": "Block{minecraft:gray_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_649.nbt",
+      "surface_state": "Block{minecraft:green_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_650.nbt",
+      "surface_state": "Block{minecraft:light_blue_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_651.nbt",
+      "surface_state": "Block{minecraft:light_gray_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_652.nbt",
+      "surface_state": "Block{minecraft:lime_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_653.nbt",
+      "surface_state": "Block{minecraft:magenta_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_654.nbt",
+      "surface_state": "Block{minecraft:orange_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_655.nbt",
+      "surface_state": "Block{minecraft:pink_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_656.nbt",
+      "surface_state": "Block{minecraft:purple_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_657.nbt",
+      "surface_state": "Block{minecraft:red_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_658.nbt",
+      "surface_state": "Block{minecraft:white_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_659.nbt",
+      "surface_state": "Block{minecraft:yellow_carpet}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_660.nbt",
+      "surface_state": "Block{minecraft:black_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_661.nbt",
+      "surface_state": "Block{minecraft:blue_ice}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_662.nbt",
+      "surface_state": "Block{minecraft:blue_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_663.nbt",
+      "surface_state": "Block{minecraft:brown_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_664.nbt",
+      "surface_state": "Block{minecraft:cyan_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_665.nbt",
+      "surface_state": "Block{minecraft:gray_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_666.nbt",
+      "surface_state": "Block{minecraft:green_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_667.nbt",
+      "surface_state": "Block{minecraft:ice}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_668.nbt",
+      "surface_state": "Block{minecraft:light_blue_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_669.nbt",
+      "surface_state": "Block{minecraft:light_gray_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_670.nbt",
+      "surface_state": "Block{minecraft:lime_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_671.nbt",
+      "surface_state": "Block{minecraft:magenta_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_672.nbt",
+      "surface_state": "Block{minecraft:orange_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_673.nbt",
+      "surface_state": "Block{minecraft:pink_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_674.nbt",
+      "surface_state": "Block{minecraft:purple_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_675.nbt",
+      "surface_state": "Block{minecraft:red_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_676.nbt",
+      "surface_state": "Block{minecraft:tinted_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_677.nbt",
+      "surface_state": "Block{minecraft:white_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_678.nbt",
+      "surface_state": "Block{minecraft:yellow_stained_glass}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_679.nbt",
+      "surface_state": "Block{minecraft:beacon}",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_680.nbt",
+      "surface_state": "Block{minecraft:brewing_stand}[has_bottle_0\u003dfalse,has_bottle_1\u003dfalse,has_bottle_2\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_681.nbt",
+      "surface_state": "Block{minecraft:glow_lichen}[down\u003dtrue,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_682.nbt",
+      "surface_state": "Block{minecraft:heavy_weighted_pressure_plate}[power\u003d0]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_683.nbt",
+      "surface_state": "Block{minecraft:light_weighted_pressure_plate}[power\u003d0]",
+      "all_three_shades_match": true
+    },
+    {
+      "file": "block_684.nbt",
+      "surface_state": "Block{minecraft:white_candle}[candles\u003d1,lit\u003dfalse,waterlogged\u003dfalse]",
+      "all_three_shades_match": true
+    }
+  ]
+}

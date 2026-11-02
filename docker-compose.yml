@@ -1,0 +1,105 @@
+version: '3.8'
+
+services:
+  mapartscript:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: mapartscript:latest
+    container_name: mapartscript
+    volumes:
+      # Mount input directory (read-only)
+      - ./input:/workspace/input:ro
+      # Mount output directory (read-write)
+      - ./output:/workspace/output
+    environment:
+      # Set timezone (optional)
+      - TZ=UTC
+    # Override command - customize for your needs
+    command:
+      - "-i"
+      - "/workspace/input/image.png"
+      - "-x"
+      - "5"
+      - "-y"
+      - "3"
+      - "-preset"
+      - "balanced"
+      - "-o"
+      - "/workspace/output/result.png"
+      - "-nbt"
+      - "/workspace/output/result.nbt"
+    # Resource limits (optional)
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 2G
+        reservations:
+          cpus: '1.0'
+          memory: 512M
+
+  # Batch processing service
+  mapartscript-batch:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: mapartscript:latest
+    container_name: mapartscript-batch
+    volumes:
+      - ./input:/workspace/input:ro
+      - ./output:/workspace/output
+    environment:
+      - TZ=UTC
+    command:
+      - "-dir"
+      - "/workspace/input"
+      - "-preset"
+      - "balanced"
+      - "-out-dir"
+      - "/workspace/output"
+    profiles:
+      - batch
+
+  # URL processing service
+  mapartscript-links:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: mapartscript:latest
+    container_name: mapartscript-links
+    volumes:
+      - ./links.txt:/workspace/links.txt:ro
+      - ./output:/workspace/output
+    environment:
+      - TZ=UTC
+    command:
+      - "-links"
+      - "/workspace/links.txt"
+      - "-preset"
+      - "landscape"
+      - "-out-dir"
+      - "/workspace/output"
+    profiles:
+      - links
+
+# Usage:
+#
+# 1. Single image processing:
+#    docker-compose up mapartscript
+#
+# 2. Batch directory processing:
+#    docker-compose --profile batch up mapartscript-batch
+#
+# 3. Process URLs from file:
+#    docker-compose --profile links up mapartscript-links
+#
+# 4. Build image:
+#    docker-compose build
+#
+# 5. Run custom command:
+#    docker-compose run --rm mapartscript -i /workspace/input/photo.jpg -preset portrait -x 3 -y 4 -o /workspace/output/portrait.png
+
+networks:
+  default:
+    name: mapartscript-network

@@ -1,0 +1,8 @@
+# Build only the Go CLI; use an explicit source allowlist.
+**
+!go.mod
+!go.sum
+!*.go
+!LICENSE
+!licenses/
+!licenses/**

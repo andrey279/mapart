@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Report differences without silently changing files during a commit.
+unformatted=$(gofmt -l ./*.go)
+if [[ -n "$unformatted" ]]; then
+    printf 'Run make fmt before committing:\n%s\n' "$unformatted"
+    exit 1
+fi
+go vet ./...
+go test -short ./...

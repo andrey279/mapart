@@ -1,0 +1,12 @@
+{
+  "before_materials": 685,
+  "after_materials": 60,
+  "removed_duplicates": 625,
+  "map_colors": 60,
+  "staircase_shades": 180,
+  "sample_png_identical_bytes": true,
+  "sample_minecraft_map_identical_pixels": true,
+  "export_only_uses_retained_materials": true,
+  "vanilla_verified_materials": 60,
+  "legacy_aliases_preserve_map_color": 625
+}
